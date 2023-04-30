@@ -1,7 +1,7 @@
 # Final-Project
 
 link to video
-https://www.youtube.com/watch?v=l11fjlZu80k 
+https://youtu.be/JPSVSmIlu-U 
 
 #Title: Blood Sugar Tracker and food option Suggestor
 
