@@ -15,4 +15,4 @@ Challenges:
 - Finally, I thought that it was hard to just think of something and then do it. This the only coding I have ever done in my life, and after missing that week of school after spring break it almost seemed like I had to relearn everything on top of the new content. back to the main point, I hadn't ever just had to write a code, it had just been to answer the questions that we got in our labs. So that made it pretty straight forward, but this was a completely abstract idea for me. 
 
 Closing remark:
-I am proud of the assignment that I turned in, and I'm glad that I was forced out of my normal business school comfort zone when taking this class and completing the final project. Thanks for reading :)
+- I am proud of the assignment that I turned in, and I'm glad that I was forced out of my normal business school comfort zone when taking this class and completing the final project. Thanks for reading :)
